@@ -70,6 +70,8 @@ const HomePage = () => {
     { id: 4, name: "JavaScript", level: 85, category: "Programming" },
     { id: 5, name: "Node.js", level: 75, category: "Backend" },
     { id: 6, name: "MongoDB", level: 70, category: "Database" },
+    {
+      id: 7,name: "Git",level: 85,category: "Tools"},
   ];
 
   return (
@@ -383,7 +385,7 @@ const HomePage = () => {
           </motion.div>
         )}
       </AnimatePresence>
-      
+
       <section className="py-20 px-6 bg-linear-to-r from-emerald-600 to-teal-600">
         <div className="max-w-4xl mx-auto text-center text-white">
           <motion.h2
@@ -392,7 +394,7 @@ const HomePage = () => {
             transition={{ duration: 0.6 }}
             className="text-4xl font-bold mb-6"
           >
-            Let’s Work Together 
+            Let’s Work Together
           </motion.h2>
 
           <motion.p
