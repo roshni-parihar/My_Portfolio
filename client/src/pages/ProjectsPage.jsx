@@ -49,7 +49,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A simple JavaScript application that calculates exact age in years, months, and days.",
       technologies: ["JavaScript", "HTML5", "CSS3"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/Assignments/Age%20Calculator",
       liveUrl: "#",
       category: "beginner",
     },
@@ -60,7 +60,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A JavaScript app that calculates electricity bills based on units consumed and tariff rates.",
       technologies: ["JavaScript", "HTML5", "CSS3"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/Assignments/Electricity%20Bill%20Calculator",
       liveUrl: "#",
       category: "beginner",
     },
@@ -71,7 +71,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A fun interactive JavaScript game where users guess a randomly generated number.",
       technologies: ["JavaScript", "HTML5", "CSS3"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/Assignments/Guess%20the%20Number",
       liveUrl: "#",
       category: "beginner",
     },
@@ -82,7 +82,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A calculator that computes net salary after deductions and allowances.",
       technologies: ["JavaScript", "HTML5", "CSS3"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/Assignments/Salary%20Calculator",
       liveUrl: "#",
       category: "beginner",
     },
@@ -93,7 +93,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A small web app that calculates tip amount and splits the bill among people.",
       technologies: ["JavaScript", "HTML5", "CSS3"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/Assignments/TIP%20Calculator",
       liveUrl: "#",
       category: "beginner",
     },
@@ -104,7 +104,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A calculator that estimates travel expenses including transport, stay, and food.",
       technologies: ["JavaScript", "HTML5", "CSS3"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/Assignments/Travel%20Bill%20Calculator",
       liveUrl: "#",
       category: "beginner",
     },
@@ -115,7 +115,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A JavaScript app that fetches random jokes from a public API and displays them dynamically.",
       technologies: ["JavaScript", "HTML5", "CSS3"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/AdvancedJavaScript/JokeApp",
       liveUrl: "#",
       category: "beginner",
     },
@@ -126,7 +126,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A responsive calculator built with JavaScript and Bootstrap supporting basic operations.",
       technologies: ["JavaScript", "HTML5", "Bootstrap"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/JavaScript/calculator",
       liveUrl: "#",
       category: "beginner",
     },
@@ -137,7 +137,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A web-based image editor allowing brightness and filter adjustments.",
       technologies: ["JavaScript", "HTML5", "Bootstrap"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/JavaScript/imageEditor",
       liveUrl: "#",
       category: "beginner",
     },
@@ -148,7 +148,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A simple password manager that stores credentials locally in browser storage.",
       technologies: ["JavaScript", "HTML5", "Bootstrap"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/JavaScript/password%20manager",
       liveUrl: "#",
       category: "beginner",
     },
@@ -159,7 +159,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A simple todo list application with add, delete, and mark-as-complete functionality.",
       technologies: ["JavaScript", "HTML5", "Bootstrap"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/JavaScript/ToDoList",
       liveUrl: "#",
       category: "beginner",
     },
@@ -170,7 +170,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A static portfolio website built using HTML, CSS, and Bootstrap.",
       technologies: ["HTML5", "Bootstrap", "CSS3"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/Bootstrap/portfolio",
       liveUrl: "#",
       category: "beginner",
     },
@@ -181,7 +181,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A modern portfolio built with React, Tailwind CSS, and Framer Motion animations.",
       technologies: ["React", "Tailwind CSS", "Framer Motion"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/My_Portfolio",
       liveUrl: "#",
       category: "intermediate",
     },
@@ -192,7 +192,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A React-based makeup product website with API integration and responsive design.",
       technologies: ["React", "Tailwind CSS", "API Integration"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/React/Makeup-Api",
       liveUrl: "#",
       category: "intermediate",
     },
@@ -214,7 +214,7 @@ export default function ProjectsPage() {
       fullDescription:
         "A full-stack food delivery platform with authentication and order management.",
       technologies: ["React", "Node.js", "Tailwind CSS"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/roshni-parihar/RICRWebDevelopment/tree/main/Cravings",
       liveUrl: "#",
       category: "advanced",
     },
